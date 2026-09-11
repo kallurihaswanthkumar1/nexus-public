@@ -1,0 +1,1 @@
+{"error":"YouTube exposed caption tracks, but returned no transcript text. This video needs captions or a supplied transcript."}

@@ -1,0 +1,28 @@
+{
+  "name": "nexus",
+  "version": "1.0.0",
+  "description": "NEXUS — turn a YouTube video, page, or text into a summary and quiz using Gemini.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kallurihaswanthkumar1/try-nexus.git"
+  },
+  "homepage": "https://github.com/kallurihaswanthkumar1/try-nexus",
+  "author": "kallurihaswanthkumar1",
+  "keywords": [
+    "youtube",
+    "gemini",
+    "summarizer",
+    "quiz",
+    "ai",
+    "node"
+  ],
+  "license": "MIT",
+  "private": false
+}
